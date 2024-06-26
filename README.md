@@ -1,4 +1,4 @@
 # terraform-aws-image
 
 
-<a href="#"><img src="https://github.com/yordanivh/terraform-aws-image/blob/main/Screenshot%202024-06-26%20at%2012.28.24.png" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/yordanivh/terraform-aws-image/main/Screenshot-2024-06-26-at-12.28.24.svg" /></a>
